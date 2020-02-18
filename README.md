@@ -1,6 +1,6 @@
 # zshopbd
 
-A food delivery platform connecting various foodies and restaurants in colaborative relatioship.
+Food delivery App connecting various foodies and restaurants in collaborative relationship.
 
 ## Feature Category
 ### Three Main App Feature
@@ -10,7 +10,7 @@ A food delivery platform connecting various foodies and restaurants in colaborat
 
 ## Restaurant Feature
 * Create Restaurant 
-                - OwnerShip
+                - Ownership
 * Manage Order
 * Food Menu
       - Add
@@ -23,4 +23,10 @@ A food delivery platform connecting various foodies and restaurants in colaborat
       * Quality
       
 ### Of course various payment method and review system will be added gradually
-![ScreenShot](https://github.com/riyadhuddin/emp_crud/blob/master/assets/SS.png)
+![ScreenShot](https://github.com/riyadhuddin/emp_crud/blob/master/assets/ss/s1.png)
+![ScreenShot](https://github.com/riyadhuddin/emp_crud/blob/master/assets/ss/s2.png)
+![ScreenShot](https://github.com/riyadhuddin/emp_crud/blob/master/assets/ss/s3.png)
+![ScreenShot](https://github.com/riyadhuddin/emp_crud/blob/master/assets/ss/s4.png)
+
+
+Feedbacks are love, I will try to build a plugin similar to this so developer can have very real quick e-commerce app to setup for his next android, ios and desktop project.
