@@ -1,16 +1,26 @@
 # zshopbd
 
-A new Flutter application.
+A food delivery platform connecting various foodies and restaurants in colaborative relatioship.
 
-## Getting Started
+## Feature Category
+### Three Main App Feature
+** Pick and Parcel
+** Seat booking
+** Nearby Delivery aka freelance delivery
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Restaurant Feature
+* Create Restaurant 
+                - OwnerShip
+* Manage Order
+* Food Menu
+      - Add
+      - Delete
+      - Edit
+      - Coupon
+## Admin
+      * Price
+      * Vat/Tax
+      * Quality
+      
+### Of course various payment method and review system will be added gradually
+![ScreenShot](https://github.com/riyadhuddin/emp_crud/blob/master/assets/SS.png)
