@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237471152104",
+    "firebase_url": "https://angry-crush.firebaseio.com",
+    "project_id": "angry-crush",
+    "storage_bucket": "angry-crush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237471152104:android:06495258eb5a2a16d7965d",
+        "android_client_info": {
+          "package_name": "com.precmedlab.zshopbd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237471152104-g9mo1l3of1tbftgm5u4ohi9p92r19ao7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL_kWgnzpitupyhw_5bh6anwksoyXLv80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237471152104-g9mo1l3of1tbftgm5u4ohi9p92r19ao7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
