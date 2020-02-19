@@ -4,9 +4,9 @@ Food delivery App connecting various foodies and restaurants in collaborative re
 
 ## Feature Category
 ### Three Main App Feature
-** Pick and Parcel
-** Seat booking
-** Nearby Delivery aka freelance delivery
+* Pick and Parcel
+* Seat booking
+* Nearby Delivery aka freelance delivery
 
 ## Restaurant Feature
 * Create Restaurant 
